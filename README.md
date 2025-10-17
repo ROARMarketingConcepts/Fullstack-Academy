@@ -1,1 +1,1 @@
-This is Ken's repository for Fullstack Academy
+This is Ken's repository for Fullstack Academy.
